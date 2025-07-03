@@ -1,2 +1,2 @@
-# coutries-mosaics
+# countries-mosaics
 Mosaic script for countries
